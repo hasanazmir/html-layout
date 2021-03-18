@@ -1,0 +1,106 @@
+ header {
+    min-height: 70px;
+    background: lemonchiffon;
+   
+}
+
+
+ul {
+    float: right;
+    
+    margin-right: 20%;
+}
+ul li {
+    list-style: none;
+    float: left;
+  
+    
+}
+ul li a {
+     text-decoration: none;
+    padding: 15px 15px;
+    color: black;
+    font-size: 24px;
+ 
+    
+}
+
+
+.box1 {
+   min-height: 100px;
+    width: 100px;
+    background: violet;  
+    padding-top: 50px;
+    padding-bottom: 30px;
+    padding-left: 25px;
+    padding-right: 35px;
+}
+
+    
+.box2 {
+    width: 120px;
+    height: 120px;
+    background: red;
+     margin: 80px 60px 50px 70px;
+}
+
+.header {
+    min-height: 120px;
+    background: red;
+    
+}
+
+.main {
+    
+}
+
+.wrapper {
+    overflow: hidden;
+    
+}
+
+.main-left {
+    width: 40%;
+    background:blue;
+     min-height: 300px;
+    float: left;
+}
+
+.main-right {
+    width: 60%;
+    background: violet;
+    min-height: 300px;
+    float: right;
+}
+
+.footer {
+    min-height: 120px;
+background-color:green;
+}
+  h1 {
+    text-align: center;
+}  
+
+.middle{
+    background: green;
+    
+}
+.nav {
+    min-height: 120px;
+    background-color: green;
+}
+
+
+
+.sing1 {
+    width: 37%;
+    min-height: 250px;
+    background-color: green;
+    float: left;
+}
+.sing2 {
+   
+   width: 26%;
+    background-color: red;
+   border-radius: 50%;
+}
